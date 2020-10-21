@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+.header {
+  background-color: #1760a0;
+  padding: 14px 0;
+}
+
+.header h3 {
+  font-weight: lighter;
+  margin-left: 20px;
+  color: #ffffff;
+}
+
+.form-control {
+  width: 50%;
+}
+
+.pass {
+  width: 30%;
+}
+
+.form-wrapper {
+  padding: 10px 20px;
+  background-color: #eaf6fd;
+}
+
+.required {
+  background-color: #de4d4d;
+  color: #ffffff;
+  padding: 1px;
+}
+
+.error {
+  color: tomato;
+}
+
+.message-form {
+  width: 40%;
+  height: 120px;
+}
+
+.message {
+  padding-left: 15px;
+  padding-top: 10px;
+}
+
+img {
+  width:48px;
+  height:48px;
+  object-fit: cover;
+}
+
+.msg {
+  display: flex;
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+  padding-top: 7px;
+}
+
+.day {
+  color:rgba(0, 0, 0, 0.5);
+  font-size: 0.75rem;
+  font-weight: lighter;
+}
+
+.content {
+  margin-left: 5px;
+}
+
+.msg-wrapper {
+  margin-top: 30px;
+}

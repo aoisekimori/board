@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+.header {
+  background-color: #1760a0;
+  padding: 14px 0;
+}
+
+.header h3 {
+  font-weight: lighter;
+  margin-left: 20px;
+  color: #ffffff;
+}
+
+.form-control {
+  width: 50%;
+}
+
+.pass {
+  width: 30%;
+}
+
+.form-wrapper {
+  padding: 10px 20px;
+  background-color: #eaf6fd;
+}
+
+.required {
+  background-color: #de4d4d;
+  color: #ffffff;
+  padding: 1px;
+}
+
+.error {
+  color: tomato;
+}
+
+.message-form {
+  width: 50%;
+}
